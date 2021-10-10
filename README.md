@@ -1,4 +1,4 @@
-# FInTech
+# nusmoney fullstack webapp
 
 ### To run the server
 ```
@@ -7,5 +7,5 @@ npm i
 npm start
 ```
 
-### To run the client (frontend)
-Run using LiveReload extension (VSCode)
+### To run the client 
+Run using LiveReload extension on Visual Studio code
